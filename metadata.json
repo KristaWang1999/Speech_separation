@@ -1,0 +1,5 @@
+{
+  "name": "Speech Separation Demo",
+  "description": "A showcase for speech separation baseline results with three groups of audio samples.",
+  "requestFramePermissions": []
+}
